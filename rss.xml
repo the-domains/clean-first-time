@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Clean First Time]]></title>
         <description><![CDATA[Clean First Time]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/clean-first-time/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 01:55:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 02:00:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clean-first-time/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5e6e3eb-c3dd-43a8-aab5-932b2e7b3051.jpg">]]></description>
-            <link>undefinedyou-build-it-we-clean-it-right-the-very-first-time/index.html</link>
+            <link>https://thegrid.ai/clean-first-time/you-build-it-we-clean-it-right-the-very-first-time/index.html</link>
             <guid isPermaLink="false">26156ba1-a7ab-46d4-aa34-cd3a72266484</guid>
-            <pubDate>Thu, 21 Apr 2016 01:55:09 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 02:00:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
